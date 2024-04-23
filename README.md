@@ -1,2 +1,2 @@
 # spotify2youtube
-Playlists downloader
+Playlists downloader using Spotify's API
